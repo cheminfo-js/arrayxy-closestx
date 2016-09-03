@@ -1,6 +1,6 @@
 {
   "name": "ml-arrayxy-closestx",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Function to get the closest x/y point for a specific x target",
   "main": "./src/index.js",
   "files": [
