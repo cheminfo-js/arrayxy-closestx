@@ -1,3 +1,8 @@
+# DEPRECATED - SHOULD NOT BE USED
+
+Use : https://github.com/cheminfo-js/array-xy/tree/master/packages/array-xy-closest-x
+
+
 # arrayxy-closestx
 
   [![NPM version][npm-image]][npm-url]
